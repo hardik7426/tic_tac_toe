@@ -8,7 +8,7 @@ A classic Tic-Tac-Toe game built with Python and Pygame featuring:
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-pygame.git
+git clone https://github.com/hardik7426/tic_tac_toe
 cd tic-tac-toe-pygame
 pip install -r requirements.txt
 ```
